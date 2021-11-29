@@ -45,8 +45,6 @@ When looking at a task, a test-taker has access to inputs & outputs of the demon
 ## Introduction
 The task of the competition was "to create an AI that can solve reasoning tasks it has never seen before." You can see a couple of examples of these tasks below.
 
-insert images
-
 
 ##### Example 1
 
